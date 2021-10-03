@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![image](https://image.freepik.com/fotos-gratis/o-hacker-faz-compras-online-hackeando-em-um-azul_391052-1852.jpg)" alt="imagem_Fraudes_Cartao"height=400px >
+  <img src="https://image.freepik.com/fotos-gratis/o-hacker-faz-compras-online-hackeando-em-um-azul_391052-1852.jpg" alt="imagem_COVID-19"height=400px >
 </p>
 
 ## Detectando Fraudes em Cartões de Crédito
