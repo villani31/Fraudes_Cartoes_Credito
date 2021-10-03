@@ -8,7 +8,7 @@ Problema de fraudes em cartões de créditos, atualmente uma das principais preo
 
 **Uma analise feita nos dados disponível por algumas instituições financeiras, utilizando analise exploratório e técnicas de Machie Learning. **
 
-[Clique aqui para acesso ao projeto.](https://github.com/villani31/Analise_COVID-19/blob/main/Projeto_COVID-19.ipynb)
+[Clique aqui para acesso ao projeto.](https://github.com/villani31/Fraudes_Cartoes_Credito/blob/main/Projeto-Detectando-Fraude-Cartao-Credito.ipynb)
   
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/thiagovillani)
