@@ -4,11 +4,9 @@
 
 ## Detectando Fraudes em Cartões de Crédito
 
-Em 31 de dezembro de 2019, a Organização Mundial da Saúde [OMS](https://www.who.int/eportuguese/countries/bra/pt/) foi alertada sobre vários casos de pneumonia na cidade de Wuhan, província de Hubei, na República Popular da China. Tratava-se de uma nova cepa (tipo) de coronavírus que não havia sido identificada antes em seres humanos.
+Problema de fraudes em cartões de créditos, atualmente uma das principais preocupações das instituições financeiras, como bancos e fintechs. No Brasil sofreu um aumento de quase 33% nas tentativas de fraudes em e-commerce no primeiro semestre de 2021, em comparação com ano passado, conforme mostra estudo, foram 2,6 milhões de tentativas, e considerando 182 milhões de transações via cartão de crédito.
 
-Uma semana depois, em 7 de janeiro de 2020, as autoridades chinesas confirmaram que haviam identificado um novo tipo de coronavírus. Em 30 de janeiro de 2020, a OMS declarou que o surto do novo coronavírus constitui uma Emergência de Saúde Pública de Importância Internacional (ESPII) – o mais alto nível de alerta da Organização.
-
-**Nesse notebook, iremos analisar os dados inseridos referente ao COVID-19, casos e mortes confirmadas pelo mundo, no Brasil, e da cidade de Curitibanos - SC**
+**Uma analise feita nos dados disponível por algumas instituições financeiras, utilizando analise exploratório e técnicas de Machie Learning. **
 
 [Clique aqui para acesso ao projeto.](https://github.com/villani31/Analise_COVID-19/blob/main/Projeto_COVID-19.ipynb)
   
