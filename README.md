@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![image](https://user-images.githubusercontent.com/76451728/135736683-5de696df-356a-4977-a082-e1aec80e8199.png)" alt="imagem_Fraudes_Cartao"height=400px >
+  <img src="![image](https://image.freepik.com/fotos-gratis/o-hacker-faz-compras-online-hackeando-em-um-azul_391052-1852.jpg)" alt="imagem_Fraudes_Cartao"height=400px >
 </p>
 
 ## Detectando Fraudes em Cartões de Crédito
